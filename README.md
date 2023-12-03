@@ -9,8 +9,10 @@ A network game where teams compete on a resource-rich map.
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 
 - **Language:** C, C++, Python
+- **Libraries:** SFML
 - **Compilation:** Via Makefile, including `re`, `clean`, and `fclean` rules.
 - **Binary Names:** `zappy_server`, `zappy_ai`, `zappy_gui`
 
